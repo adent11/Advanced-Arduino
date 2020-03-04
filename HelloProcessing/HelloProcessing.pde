@@ -18,9 +18,9 @@ void draw() {
   x = x + xDirection;
 
   if (y > 255) {
-    yDirection = -int(random(0,5));
+    yDirection = -int(random(0,10));
   } else if (y < 50) {
-    yDirection = int(random(0,5));
+    yDirection = int(random(0,10));
   }
   y = y + yDirection;
 
@@ -29,5 +29,5 @@ void draw() {
   stroke(random(0, 255), random(0, 255), random(0, 255));
   strokeWeight(random(0, 10));
   textSize(random(10, 30));
-  text("Hello world.", 150, 150);
+  text("Hello World.", 150, 150);
 }
