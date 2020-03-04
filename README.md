@@ -2,6 +2,9 @@
 ## Hello Processing
 #### Included Files:
 <a href="HelloProcessing/HelloProcessing.pde">HelloProcessing</a> <br/>
+<br/>
+In this assignment I learned the basics of Processing. I made a circle that bounced off the edges, and printed "Hello World". I proceeded to randomize color, direction, and size for a more engaging user experience.
+<br/><br/>
 <IMG SRC="Media/HelloProcessingGif.gif"  width="250" height="250">
 ## Arduino to Processing
 #### Included Files:
