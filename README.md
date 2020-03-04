@@ -2,7 +2,7 @@
 ## Hello Processing
 #### Included Files:
 <a href="HelloProcessing/HelloProcessing.pde">HelloProcessing</a> <br/>
-
+<IMG SRC="Media/HelloProcessingGif.gif"  width="250" height="250">
 ## Arduino to Processing
 #### Included Files:
 <a href="ProcessingFromArduino/ProcessingFromArduino.pde">ProcessingFromArduino</a> <br/>
