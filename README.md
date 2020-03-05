@@ -20,3 +20,4 @@ In this assignment I used Processing and Arduino to display the input from a pot
 #### Included Files:
 <a href="ProcessingToArduino/ProcessingToArduino.pde">ProcessingToArduino</a> <br/>
 <a href="ArduinoFromProcessing/ArduinoFromProcessing.ino">ArduinoFromProcessing</a> <br/>
+<IMG SRC="Media/ProcessingToArduinoGif.gif"  width="200" height="350">
