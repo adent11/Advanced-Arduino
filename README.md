@@ -20,6 +20,7 @@ In this assignment I used Processing and Arduino to display the input from a pot
 #### Included Files:
 <a href="ProcessingToArduino/ProcessingToArduino.pde">ProcessingToArduino</a> <br/>
 <a href="ArduinoFromProcessing/ArduinoFromProcessing.ino">ArduinoFromProcessing</a> <br/>
+<br/>
 In this assignment I used a GUI in Processing to make an arduino control a servo. This assignment was the opposite of the last, this time sendin serial data from Processing to an Arduino. This assignment took a while because I didn't know how to read serial data on the Arduino. Other than this, it was mostly straightforward, just turning a servo.
 <br/><br/>
 <IMG SRC="Media/ProcessingToArduinoGif.gif"  width="200" height="350">
