@@ -13,6 +13,8 @@ In this assignment I learned the basics of Processing. I made a circle that boun
 <a href="ArduinoToProcessing/ArduinoToProcessing.ino">ArduinoToProcessing</a> <br/>
 In this assignment I used Processing and Arduino to display the input from a potentiometer using a dial. The Arduino side was easy, just serial printing the reading from a potentiometer. The Processing side was a little more complex, 
 
+<IMG SRC="Media/ArduinoToProcessingGif.gif"  width="250" height="250">
+
 ## Processing to Arduino
 #### Included Files:
 <a href="ProcessingToArduino/ProcessingToArduino.pde">ProcessingToArduino</a> <br/>
